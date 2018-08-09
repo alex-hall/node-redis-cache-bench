@@ -385,8 +385,9 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-"node-redis-cache@file:../node-redis-cache":
-  version "1.0.0"
+node-redis-app-cache@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/node-redis-app-cache/-/node-redis-app-cache-1.0.1.tgz#d282d5b33e27ea144680d0681b0abfe0f5b90be6"
   dependencies:
     redis "^2.8.0"
 
